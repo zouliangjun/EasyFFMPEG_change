@@ -1,0 +1,6 @@
+		{
+			"Name": "EasyFFMPEG",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [ "Android" ]
+		}
